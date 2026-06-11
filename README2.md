@@ -4,14 +4,7 @@ This repository contains four independent tasks/projects.
 
 ## Project Structure
 
-project/
-│
-├── Task-1/
-├── Task-2/
-├── Task-3/
-├── Task-4/
-├── .env
-└── README.md
+<img width="375" height="358" alt="Screenshot 2026-06-11 214024" src="https://github.com/user-attachments/assets/52c7febc-1b15-4fcc-b5b4-1efd4423964d" />
 
 ---
 
